@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+.custom-image {
+  width: 150px; /* Ajuste la largeur */
+  height: 100px; /* Ajuste la hauteur */
+  object-fit: cover; /* Assure que l'image remplit le conteneur sans déformation */
+}
